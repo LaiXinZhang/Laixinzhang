@@ -4,6 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
+  root: __dirname,
   plugins: [react()],
   server: {
     port: 3000,
