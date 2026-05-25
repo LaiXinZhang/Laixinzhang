@@ -16,17 +16,6 @@ export default {
         cinzel: ['Cinzel', 'serif'],
         montserrat: ['Montserrat', 'sans-serif'],
       },
-      spacing: {
-        'xs': '0.5rem',
-        'sm': '1rem',
-        'md': '2rem',
-        'lg': '4rem',
-        'xl': '8rem',
-        'section': '12vh',
-      },
-      maxWidth: {
-        'content': '1400px',
-      },
     },
   },
   plugins: [],
