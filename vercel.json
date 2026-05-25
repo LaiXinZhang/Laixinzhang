@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "framework": null,
-  "buildCommand": "node --version && npm --version && npm list && npx vite build",
-  "outputDirectory": "dist",
-  "installCommand": "npm install"
-}
